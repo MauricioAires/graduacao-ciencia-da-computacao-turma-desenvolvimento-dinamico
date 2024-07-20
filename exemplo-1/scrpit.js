@@ -1,7 +1,5 @@
-
-
 // Variáveis
-let nome= 'Mauricio Aires'
-let idade = 23
+let nome = "Mauricio Aires";
+let idade = 23;
 
-console.log('Seu nome é '+ nome + " e sua idade é " + idade)
+console.log("Seu nome é " + nome + " e sua idade é " + idade);

@@ -1,9 +1,9 @@
-let rlSync = require('readline-sync')
+let rlSync = require("readline-sync");
 
-let nome = rlSync.question("Qual o seu nome?\n")
+let nome = rlSync.question("Qual o seu nome?\n");
 
-console.log(`Olá, ${nome}`)
+console.log(`Olá, ${nome}`);
 
-let idade = rlSync.questionInt("Qual a sua idade?\n")
+let idade = rlSync.questionInt("Qual a sua idade?\n");
 
-console.log(`Você tem ${idade} anos`)
+console.log(`Você tem ${idade} anos`);
